@@ -1,1 +1,1 @@
-# clang
+# lang-c

@@ -45,7 +45,7 @@ void test() {
     int nums1[] = {1, 2};
     int nums2[] = {3, 7, 9, 11};
     double result = findMedianSortedArrays(nums2, 4, nums1, 2);
-    printf("中位数：%.2f", result);
+    printf("%.2f", result);
 }
 
 int main() {
